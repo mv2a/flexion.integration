@@ -1,5 +1,5 @@
 # flexion.integration
-Java developer ​ – ​  Integration team  Developer test 
+Integration team  Developer test 
 
 In order to build/run/test: mvn test
 
